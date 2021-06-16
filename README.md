@@ -10,7 +10,7 @@ date: May 25, 2021
 
 
 <center>
-<img src="covid_cases.png">
+<img src="covid_combined.png" width=700>
 </center>
 
 
